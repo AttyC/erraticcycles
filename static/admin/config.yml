@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
-  branch: master
+  # name: git-gateway
+  # branch: master
+  name: github
+  repo: AttyC/erraticcycles
+  branch: main
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
