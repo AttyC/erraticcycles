@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: The perils of perimenopausal procrastination
 date: 2021-09-09T14:21:54.025Z
-description: Why do tomorrow what you can do next year?
+description: Why I blame perimenopause for my inability to start a website about
+  perimenopause
 featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 tags:
@@ -12,11 +13,13 @@ tags:
 ---
 ![erratic cycles logo](/img/erraticcycles.png)
 
+## Welcome to Erratic Cycles - tales of perimenopause!
+
 I had the idea to start this site about perimenopause stories over a year ago \[a lot has happened since then].
 
-The irony is, the symptoms of perimenopause that gave me the idea to create the Erratic Cycles website also meant I didn't actually make the website ... ok, to be completely clear - my lack of achievement was largely due to good old putting it off/finding excuses, of course.
+The irony is, the symptoms of perimenopause that gave me the idea to create the Erratic Cycles website also meant I didn't actually make the website ... ok, to be completely clear - my lack of achievement was largely due to the usual putting it off/finding excuses, of course.
 
-So, as an introduction, I'm going to list my symptoms. Some may be due to the perimenopause. Some may not. I'm no doctor.
+So, as an introduction, I'm going to list my symptoms. Some may be due to  perimenopause. Some may not. I'm no doctor.
 
 **Brain fog** - inability to make lots of decisions, feeling like my brain has started wearing thick cement boots, covered in soft fur
 
