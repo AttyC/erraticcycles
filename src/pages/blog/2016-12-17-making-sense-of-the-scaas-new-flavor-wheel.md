@@ -5,13 +5,13 @@ date: 2021-09-09T14:21:54.025Z
 description: Why I blame perimenopause for my inability to start a website about
   perimenopause
 featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/colour-v5vnj5wd0r.jpeg
 tags:
   - perimenopause
   - stories
   - brain fog
 ---
-![erratic cycles logo](/img/erraticcycles.png)
+![erratic cycles logo](/img/colour-v5vnj5wd0r.jpeg)
 
 ## Welcome to Erratic Cycles - tales of perimenopause!
 
