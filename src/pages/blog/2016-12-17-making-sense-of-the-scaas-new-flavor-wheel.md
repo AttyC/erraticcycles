@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The perils of perimenopausal procrastination
 date: 2021-09-09T14:21:54.025Z
-description: Brain fog and phantom cramps
+description: Why do tomorrow what you can do next year?
 featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 tags:
@@ -10,7 +10,7 @@ tags:
   - stories
   - brain fog
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![erratic cycles logo](/img/erraticcycles.png)
 
 I had the idea to start this site about perimenopause stories over a year ago \[a lot has happened since then].
 
